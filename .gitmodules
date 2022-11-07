@@ -1,0 +1,3 @@
+[submodule "custom_crm"]
+	path = custom_crm
+	url = https://github.com/jamp1495/Tests-Odoo14.git
